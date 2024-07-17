@@ -1,2 +1,2 @@
-tsc DFS.ts
-node DFS.js
+tsc BFS.ts
+node BFS.js
